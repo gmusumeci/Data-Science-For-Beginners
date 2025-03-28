@@ -21,8 +21,8 @@ Fill in the following table (substitute suggested problem domains for your own o
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
 | Education |improve education process for children in schools | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Vaccination |I want control vaccination during the pandemic I suppose that vaccination occurs according to municipality|List of residents in the municipality,List of vaccinated people  |Database | Link residents with vaccinated people|
+| Productivity |I suppose to have a list of task to do for each week | I c | | |
 
 ## Rubric
 
