@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education |improve education process for children in schools | | | |
+| Education |improve education process for children in schools | I collect student grade data for each day for each subject|Database | for each student, for each subjet i plot grade. I plot the averag grade of all subjects too|
 | Vaccination |I want control vaccination during the pandemic I suppose that vaccination occurs according to municipality|List of residents in the municipality,List of vaccinated people  |Database | Link residents with vaccinated people|
-| Productivity |I suppose to have a list of task to do for each week | I c | | |
+| Productivity |I suppose to have a list of task to do for each week. I can plan a number of task for each day according to the difficulty | Spreadsheet |At the end of the day if I have completed all my task I can fill a cell with a 'ok' string | |
 
 ## Rubric
 
