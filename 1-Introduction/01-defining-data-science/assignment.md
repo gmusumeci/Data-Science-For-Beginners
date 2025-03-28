@@ -20,8 +20,8 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education |improve education process for children in schools | I collect student grade data for each day for each subject|Database | for each student, for each subjet i plot grade. I plot the averag grade of all subjects too|
-| Vaccination |I want control vaccination during the pandemic I suppose that vaccination occurs according to municipality|List of residents in the municipality,List of vaccinated people  |Database | Link residents with vaccinated people|
+| Education |I suppose each student is graded for his scool job every day | I collect student grade data for each day for each subject|Database | for each student, for each subject i plot average grade for month. I plot the average grade of all subjects for month too. At each moment I can see the trend of each student|
+| Vaccination |I hypothesize that vaccinations at my center are administered based on the municipality of residence, and that I am responsible for a certain number of municipalities.|I collect list of residents in my municipalities and I produce a list of vaccinated people  |Database |I link residents with vaccinated people: I can know who is vaccined, who not and municipalities with problems.|
 | Productivity |I suppose to have a list of task to do for each week. I can plan a number of task for each day according to the difficulty | Spreadsheet |At the end of the day if I have completed all my task I can fill a cell with a 'ok' string | |
 
 ## Rubric
